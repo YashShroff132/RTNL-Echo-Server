@@ -66,7 +66,8 @@ void TcpClient::ReadAck()
 
     client_log << "ACK Received: " << std::string(ackBuffer.data(), len) << "\n";
     client_log << "Received Timestamp (ns): " << recvNs << "\n";
-    client_log << "RTT (ns): " << log.roundTripLatency << "\n---\n";
+    client_log << "RTT (ns): " << log.roundTripLatency << "\n";
+    client_log << "---\n";
 
     std::cout << "Received ACK: " << std::string(ackBuffer.data(), len)
               << ", RTT(ns): " << log.roundTripLatency << std::endl;

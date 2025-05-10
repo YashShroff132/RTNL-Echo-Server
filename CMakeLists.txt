@@ -3,18 +3,18 @@ project(HighConcurrencyTcpServer)
 
 set(CMAKE_CXX_STANDARD 17)
 
+# Boost is only needed for the client
 find_package(Boost 1.70 REQUIRED system)
 include_directories(${Boost_INCLUDE_DIRS})
 include_directories(src)
 
+# ⚙️ New epoll-based server build
 add_executable(server
     main.cpp
-    src/TcpServer.cpp
-    src/ClientSession.cpp
+    src/epoll_server.cpp
 )
 
-target_link_libraries(server PRIVATE ${Boost_LIBRARIES})
-
+# 🧠 Boost-based client remains the same
 add_executable(client
     main_client.cpp
     src/TcpClient.cpp
