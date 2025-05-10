@@ -190,30 +190,6 @@ main_client.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/client.dir/build.make CMakeFiles/client.dir/main_client.cpp.s
 .PHONY : main_client.cpp.s
 
-src/ClientSession.o: src/ClientSession.cpp.o
-.PHONY : src/ClientSession.o
-
-# target to build an object file
-src/ClientSession.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/ClientSession.cpp.o
-.PHONY : src/ClientSession.cpp.o
-
-src/ClientSession.i: src/ClientSession.cpp.i
-.PHONY : src/ClientSession.i
-
-# target to preprocess a source file
-src/ClientSession.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/ClientSession.cpp.i
-.PHONY : src/ClientSession.cpp.i
-
-src/ClientSession.s: src/ClientSession.cpp.s
-.PHONY : src/ClientSession.s
-
-# target to generate assembly for a file
-src/ClientSession.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/ClientSession.cpp.s
-.PHONY : src/ClientSession.cpp.s
-
 src/TcpClient.o: src/TcpClient.cpp.o
 .PHONY : src/TcpClient.o
 
@@ -238,29 +214,29 @@ src/TcpClient.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/client.dir/build.make CMakeFiles/client.dir/src/TcpClient.cpp.s
 .PHONY : src/TcpClient.cpp.s
 
-src/TcpServer.o: src/TcpServer.cpp.o
-.PHONY : src/TcpServer.o
+src/epoll_server.o: src/epoll_server.cpp.o
+.PHONY : src/epoll_server.o
 
 # target to build an object file
-src/TcpServer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/TcpServer.cpp.o
-.PHONY : src/TcpServer.cpp.o
+src/epoll_server.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/epoll_server.cpp.o
+.PHONY : src/epoll_server.cpp.o
 
-src/TcpServer.i: src/TcpServer.cpp.i
-.PHONY : src/TcpServer.i
+src/epoll_server.i: src/epoll_server.cpp.i
+.PHONY : src/epoll_server.i
 
 # target to preprocess a source file
-src/TcpServer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/TcpServer.cpp.i
-.PHONY : src/TcpServer.cpp.i
+src/epoll_server.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/epoll_server.cpp.i
+.PHONY : src/epoll_server.cpp.i
 
-src/TcpServer.s: src/TcpServer.cpp.s
-.PHONY : src/TcpServer.s
+src/epoll_server.s: src/epoll_server.cpp.s
+.PHONY : src/epoll_server.s
 
 # target to generate assembly for a file
-src/TcpServer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/TcpServer.cpp.s
-.PHONY : src/TcpServer.cpp.s
+src/epoll_server.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/server.dir/build.make CMakeFiles/server.dir/src/epoll_server.cpp.s
+.PHONY : src/epoll_server.cpp.s
 
 # Help Target
 help:
@@ -278,15 +254,12 @@ help:
 	@echo "... main_client.o"
 	@echo "... main_client.i"
 	@echo "... main_client.s"
-	@echo "... src/ClientSession.o"
-	@echo "... src/ClientSession.i"
-	@echo "... src/ClientSession.s"
 	@echo "... src/TcpClient.o"
 	@echo "... src/TcpClient.i"
 	@echo "... src/TcpClient.s"
-	@echo "... src/TcpServer.o"
-	@echo "... src/TcpServer.i"
-	@echo "... src/TcpServer.s"
+	@echo "... src/epoll_server.o"
+	@echo "... src/epoll_server.i"
+	@echo "... src/epoll_server.s"
 .PHONY : help
 
 

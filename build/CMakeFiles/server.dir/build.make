@@ -83,50 +83,33 @@ CMakeFiles/server.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/main.cpp -o CMakeFiles/server.dir/main.cpp.s
 
-CMakeFiles/server.dir/src/TcpServer.cpp.o: CMakeFiles/server.dir/flags.make
-CMakeFiles/server.dir/src/TcpServer.cpp.o: /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/TcpServer.cpp
-CMakeFiles/server.dir/src/TcpServer.cpp.o: CMakeFiles/server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/server.dir/src/TcpServer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/server.dir/src/TcpServer.cpp.o -MF CMakeFiles/server.dir/src/TcpServer.cpp.o.d -o CMakeFiles/server.dir/src/TcpServer.cpp.o -c /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/TcpServer.cpp
+CMakeFiles/server.dir/src/epoll_server.cpp.o: CMakeFiles/server.dir/flags.make
+CMakeFiles/server.dir/src/epoll_server.cpp.o: /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/epoll_server.cpp
+CMakeFiles/server.dir/src/epoll_server.cpp.o: CMakeFiles/server.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/server.dir/src/epoll_server.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/server.dir/src/epoll_server.cpp.o -MF CMakeFiles/server.dir/src/epoll_server.cpp.o.d -o CMakeFiles/server.dir/src/epoll_server.cpp.o -c /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/epoll_server.cpp
 
-CMakeFiles/server.dir/src/TcpServer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/server.dir/src/TcpServer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/TcpServer.cpp > CMakeFiles/server.dir/src/TcpServer.cpp.i
+CMakeFiles/server.dir/src/epoll_server.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/server.dir/src/epoll_server.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/epoll_server.cpp > CMakeFiles/server.dir/src/epoll_server.cpp.i
 
-CMakeFiles/server.dir/src/TcpServer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server.dir/src/TcpServer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/TcpServer.cpp -o CMakeFiles/server.dir/src/TcpServer.cpp.s
-
-CMakeFiles/server.dir/src/ClientSession.cpp.o: CMakeFiles/server.dir/flags.make
-CMakeFiles/server.dir/src/ClientSession.cpp.o: /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/ClientSession.cpp
-CMakeFiles/server.dir/src/ClientSession.cpp.o: CMakeFiles/server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/server.dir/src/ClientSession.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/server.dir/src/ClientSession.cpp.o -MF CMakeFiles/server.dir/src/ClientSession.cpp.o.d -o CMakeFiles/server.dir/src/ClientSession.cpp.o -c /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/ClientSession.cpp
-
-CMakeFiles/server.dir/src/ClientSession.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/server.dir/src/ClientSession.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/ClientSession.cpp > CMakeFiles/server.dir/src/ClientSession.cpp.i
-
-CMakeFiles/server.dir/src/ClientSession.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server.dir/src/ClientSession.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/ClientSession.cpp -o CMakeFiles/server.dir/src/ClientSession.cpp.s
+CMakeFiles/server.dir/src/epoll_server.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server.dir/src/epoll_server.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/epoll_server.cpp -o CMakeFiles/server.dir/src/epoll_server.cpp.s
 
 # Object files for target server
 server_OBJECTS = \
 "CMakeFiles/server.dir/main.cpp.o" \
-"CMakeFiles/server.dir/src/TcpServer.cpp.o" \
-"CMakeFiles/server.dir/src/ClientSession.cpp.o"
+"CMakeFiles/server.dir/src/epoll_server.cpp.o"
 
 # External object files for target server
 server_EXTERNAL_OBJECTS =
 
 server: CMakeFiles/server.dir/main.cpp.o
-server: CMakeFiles/server.dir/src/TcpServer.cpp.o
-server: CMakeFiles/server.dir/src/ClientSession.cpp.o
+server: CMakeFiles/server.dir/src/epoll_server.cpp.o
 server: CMakeFiles/server.dir/build.make
-server: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0
 server: CMakeFiles/server.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable server"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable server"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/server.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
