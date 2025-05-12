@@ -1,0 +1,600 @@
+Message ID: client-1
+Sent Timestamp (ns): 1747072634515915610
+ACK Received: ACK:client-1                            
+Received Timestamp (ns): 4680557474375
+RTT (ns): 200626
+---
+Message ID: client-2
+Sent Timestamp (ns): 1747072634515969122
+ACK Received: ACK:client-2                            
+Received Timestamp (ns): 4680557506311
+RTT (ns): 178947
+---
+Message ID: client-3
+Sent Timestamp (ns): 1747072634516451410
+ACK Received: ACK:client-3                            
+Received Timestamp (ns): 4680557869364
+RTT (ns): 59644
+---
+Message ID: client-4
+Sent Timestamp (ns): 1747072634516572855
+ACK Received: ACK:client-4                            
+Received Timestamp (ns): 4680558053241
+RTT (ns): 122033
+---
+Message ID: client-5
+Sent Timestamp (ns): 1747072634516854995
+ACK Received: ACK:client-5                            
+Received Timestamp (ns): 4680558278769
+RTT (ns): 65589
+---
+Message ID: client-6
+Sent Timestamp (ns): 1747072634517103019
+ACK Received: ACK:client-6                            
+Received Timestamp (ns): 4680558515380
+RTT (ns): 54061
+---
+Message ID: client-7
+Sent Timestamp (ns): 1747072634517495470
+ACK Received: ACK:client-7                            
+Received Timestamp (ns): 4680558963070
+RTT (ns): 109200
+---
+Message ID: client-11
+Sent Timestamp (ns): 1747072634518763463
+ACK Received: ACK:client-11                           
+Received Timestamp (ns): 4680560210672
+RTT (ns): 88829
+---
+Message ID: client-8
+Sent Timestamp (ns): 1747072634518127821
+ACK Received: ACK:client-8                            
+Received Timestamp (ns): 4680559665719
+RTT (ns): 179548
+---
+Message ID: client-10
+Sent Timestamp (ns): 1747072634518443944
+ACK Received: ACK:client-10                           
+Received Timestamp (ns): 4680559861323
+RTT (ns): 59076
+---
+Message ID: client-12
+Sent Timestamp (ns): 1747072634519012923
+ACK Received: ACK:client-12                           
+Received Timestamp (ns): 4680560790743
+RTT (ns): 419494
+---
+Message ID: client-13
+Sent Timestamp (ns): 1747072634519387256
+ACK Received: ACK:client-13                           
+Received Timestamp (ns): 4680560829450
+RTT (ns): 83843
+---
+Message ID: client-14
+Sent Timestamp (ns): 1747072634519785537
+ACK Received: ACK:client-14                           
+Received Timestamp (ns): 4680561218045
+RTT (ns): 74198
+---
+Message ID: client-9
+Sent Timestamp (ns): 1747072634518280384
+ACK Received: ACK:client-9                            
+Received Timestamp (ns): 4680559764812
+RTT (ns): 126086
+---
+Message ID: client-16
+Sent Timestamp (ns): 1747072634520849690
+ACK Received: ACK:client-16                           
+Received Timestamp (ns): 4680562260106
+RTT (ns): 52335
+---
+Message ID: client-15
+Sent Timestamp (ns): 1747072634520685649
+ACK Received: ACK:client-15                           
+Received Timestamp (ns): 4680562217036
+RTT (ns): 173113
+---
+Message ID: client-17
+Sent Timestamp (ns): 1747072634521111715
+ACK Received: ACK:client-17                           
+Received Timestamp (ns): 4680563320186
+RTT (ns): 850095
+---
+Message ID: client-18
+Sent Timestamp (ns): 1747072634522101679
+ACK Received: ACK:client-18                           
+Received Timestamp (ns): 4680563753344
+RTT (ns): 293394
+---
+Message ID: client-19
+Sent Timestamp (ns): 1747072634522776095
+ACK Received: ACK:client-19                           
+Received Timestamp (ns): 4680564380598
+RTT (ns): 246133
+---
+Message ID: client-21
+Sent Timestamp (ns): 1747072634522776099
+ACK Received: ACK:client-21                           
+Received Timestamp (ns): 4680564606062
+RTT (ns): 471614
+---
+Message ID: client-20
+Sent Timestamp (ns): 1747072634522776131
+ACK Received: ACK:client-20                           
+Received Timestamp (ns): 4680564611452
+RTT (ns): 476974
+---
+Message ID: client-22
+Sent Timestamp (ns): 1747072634523428333
+ACK Received: ACK:client-22                           
+Received Timestamp (ns): 4680564965297
+RTT (ns): 178719
+---
+Message ID: client-23
+Sent Timestamp (ns): 1747072634524823389
+ACK Received: ACK:client-23                           
+Received Timestamp (ns): 4680566325475
+RTT (ns): 146254
+---
+Message ID: client-24
+Sent Timestamp (ns): 1747072634524905684
+ACK Received: ACK:client-24                           
+Received Timestamp (ns): 4680566467951
+RTT (ns): 204060
+---
+Message ID: client-26
+Sent Timestamp (ns): 1747072634525655100
+ACK Received: ACK:client-26                           
+Received Timestamp (ns): 4680567295795
+RTT (ns): 282397
+---
+Message ID: client-25
+Sent Timestamp (ns): 1747072634525655204
+ACK Received: ACK:client-25                           
+Received Timestamp (ns): 4680567291666
+RTT (ns): 278269
+---
+Message ID: client-32
+Sent Timestamp (ns): 1747072634527145188
+ACK Received: ACK:client-32                           
+Received Timestamp (ns): 4680569441858
+RTT (ns): 938521
+---
+Message ID: client-34
+Sent Timestamp (ns): 1747072634527442982
+ACK Received: ACK:client-34                           
+Received Timestamp (ns): 4680569629328
+RTT (ns): 827943
+---
+Message ID: client-29
+Sent Timestamp (ns): 1747072634527144932
+ACK Received: ACK:client-29                           
+Received Timestamp (ns): 4680569604251
+RTT (ns): 1100941
+---
+Message ID: client-27
+Sent Timestamp (ns): 1747072634527144916
+ACK Received: ACK:client-27                           
+Received Timestamp (ns): 4680569130498
+RTT (ns): 627193
+---
+Message ID: client-35
+Sent Timestamp (ns): 1747072634528048090
+ACK Received: ACK:client-35                           
+Received Timestamp (ns): 4680569643289
+RTT (ns): 236829
+---
+Message ID: client-28
+Sent Timestamp (ns): 1747072634527302643
+ACK Received: ACK:client-28                           
+Received Timestamp (ns): 4680571240852
+RTT (ns): 2579844
+---
+Message ID: client-42
+Sent Timestamp (ns): 1747072634530107750
+ACK Received: ACK:client-42                           
+Received Timestamp (ns): 4680572433625
+RTT (ns): 967531
+---
+Message ID: client-37
+Sent Timestamp (ns): 1747072634529921001
+ACK Received: ACK:client-37                           
+Received Timestamp (ns): 4680572389991
+RTT (ns): 1110705
+---
+Message ID: client-38
+Sent Timestamp (ns): 1747072634529567550
+ACK Received: ACK:client-38                           
+Received Timestamp (ns): 4680572961986
+RTT (ns): 2036294
+---
+Message ID: client-33
+Sent Timestamp (ns): 1747072634531141421
+ACK Received: ACK:client-33                           
+Received Timestamp (ns): 4680572925873
+RTT (ns): 426200
+---
+Message ID: client-45
+Sent Timestamp (ns): 1747072634531201735
+ACK Received: ACK:client-45                           
+Received Timestamp (ns): 4680573076056
+RTT (ns): 515993
+---
+Message ID: client-41
+Sent Timestamp (ns): 1747072634529909154
+ACK Received: ACK:client-41                           
+Received Timestamp (ns): 4680573032399
+RTT (ns): 1764946
+---
+Message ID: client-43
+Sent Timestamp (ns): 1747072634531423803
+ACK Received: ACK:client-43                           
+Received Timestamp (ns): 4680573102163
+RTT (ns): 320008
+---
+Message ID: client-44
+Sent Timestamp (ns): 1747072634532234311
+ACK Received: ACK:client-44                           
+Received Timestamp (ns): 4680573852210
+RTT (ns): 259643
+---
+Message ID: client-52
+Sent Timestamp (ns): 1747072634533559198
+ACK Received: ACK:client-52                           
+Received Timestamp (ns): 4680575020730
+RTT (ns): 103214
+---
+Message ID: client-40
+Sent Timestamp (ns): 1747072634533126472
+ACK Received: ACK:client-40                           
+Received Timestamp (ns): 4680575526028
+RTT (ns): 1041481
+---
+Message ID: client-50
+Sent Timestamp (ns): 1747072634533684605
+ACK Received: ACK:client-50                           
+Received Timestamp (ns): 4680575664397
+RTT (ns): 621428
+---
+Message ID: client-54
+Sent Timestamp (ns): 1747072634534116088
+ACK Received: ACK:client-54                           
+Received Timestamp (ns): 4680575629627
+RTT (ns): 155183
+---
+Message ID: client-47
+Sent Timestamp (ns): 1747072634533126502
+ACK Received: ACK:client-47                           
+Received Timestamp (ns): 4680576194986
+RTT (ns): 1710426
+---
+Message ID: client-30
+Sent Timestamp (ns): 1747072634527163101
+ACK Received: ACK:client-30                           
+Received Timestamp (ns): 4680577309483
+RTT (ns): 8788071
+---
+Message ID: client-36
+Sent Timestamp (ns): 1747072634529567550
+ACK Received: ACK:client-36                           
+Received Timestamp (ns): 4680577650863
+RTT (ns): 6725126
+---
+Message ID: client-39
+Sent Timestamp (ns): 1747072634531141376
+ACK Received: ACK:client-39                           
+Received Timestamp (ns): 4680578014235
+RTT (ns): 5514465
+---
+Message ID: client-58
+Sent Timestamp (ns): 1747072634535783388
+ACK Received: ACK:client-58                           
+Received Timestamp (ns): 4680578600736
+RTT (ns): 1459111
+---
+Message ID: client-61
+Sent Timestamp (ns): 1747072634536880080
+ACK Received: ACK:client-61                           
+Received Timestamp (ns): 4680578637796
+RTT (ns): 399424
+---
+Message ID: client-57
+Sent Timestamp (ns): 1747072634535912902
+ACK Received: ACK:client-57                           
+Received Timestamp (ns): 4680578691021
+RTT (ns): 1419725
+---
+Message ID: client-62
+Sent Timestamp (ns): 1747072634536806001
+ACK Received: ACK:client-62                           
+Received Timestamp (ns): 4680579067590
+RTT (ns): 903240
+---
+Message ID: client-46
+Sent Timestamp (ns): 1747072634534524261
+ACK Received: ACK:client-46                           
+Received Timestamp (ns): 4680579246226
+RTT (ns): 3363643
+---
+Message ID: client-31
+Sent Timestamp (ns): 1747072634535912891
+ACK Received: ACK:client-31                           
+Received Timestamp (ns): 4680579290785
+RTT (ns): 2019458
+---
+Message ID: client-55
+Sent Timestamp (ns): 1747072634538265452
+ACK Received: ACK:client-55                           
+Received Timestamp (ns): 4680579801204
+RTT (ns): 177394
+---
+Message ID: client-53
+Sent Timestamp (ns): 1747072634536815312
+ACK Received: ACK:client-53                           
+Received Timestamp (ns): 4680578665451
+RTT (ns): 491831
+---
+Message ID: client-65
+Sent Timestamp (ns): 1747072634538265449
+ACK Received: ACK:client-65                           
+Received Timestamp (ns): 4680580454393
+RTT (ns): 830596
+---
+Message ID: client-72
+Sent Timestamp (ns): 1747072634539735285
+ACK Received: ACK:client-72                           
+Received Timestamp (ns): 4680581247508
+RTT (ns): 153995
+---
+Message ID: client-59
+Sent Timestamp (ns): 1747072634538631027
+ACK Received: ACK:client-59                           
+Received Timestamp (ns): 4680581303861
+RTT (ns): 1314489
+---
+Message ID: client-68
+Sent Timestamp (ns): 1747072634539115733
+ACK Received: ACK:client-68                           
+Received Timestamp (ns): 4680581826306
+RTT (ns): 1352248
+---
+Message ID: client-63
+Sent Timestamp (ns): 1747072634539115761
+ACK Received: ACK:client-63                           
+Received Timestamp (ns): 4680581786404
+RTT (ns): 1312317
+---
+Message ID: client-73
+Sent Timestamp (ns): 1747072634540506040
+ACK Received: ACK:client-73                           
+Received Timestamp (ns): 4680582071128
+RTT (ns): 206718
+---
+Message ID: client-49
+Sent Timestamp (ns): 1747072634540843049
+ACK Received: ACK:client-49                           
+Received Timestamp (ns): 4680582559682
+RTT (ns): 358307
+---
+Message ID: client-60
+Sent Timestamp (ns): 1747072634540674774
+ACK Received: ACK:client-60                           
+Received Timestamp (ns): 4680582263185
+RTT (ns): 230149
+---
+Message ID: client-64
+Sent Timestamp (ns): 1747072634541367376
+ACK Received: ACK:client-64                           
+Received Timestamp (ns): 4680582882846
+RTT (ns): 157062
+---
+Message ID: client-71
+Sent Timestamp (ns): 1747072634540804002
+ACK Received: ACK:client-71                           
+Received Timestamp (ns): 4680582419475
+RTT (ns): 257080
+---
+Message ID: client-69
+Sent Timestamp (ns): 1747072634541860525
+ACK Received: ACK:client-69                           
+Received Timestamp (ns): 4680584370975
+RTT (ns): 1152095
+---
+Message ID: client-76
+Sent Timestamp (ns): 1747072634543067907
+ACK Received: ACK:client-76                           
+Received Timestamp (ns): 4680584658649
+RTT (ns): 232388
+---
+Message ID: client-66
+Sent Timestamp (ns): 1747072634543769656
+ACK Received: ACK:client-66                           
+Received Timestamp (ns): 4680585465831
+RTT (ns): 337803
+---
+Message ID: client-79
+Sent Timestamp (ns): 1747072634543938950
+ACK Received: ACK:client-79                           
+Received Timestamp (ns): 4680585694671
+RTT (ns): 397360
+---
+Message ID: client-77
+Sent Timestamp (ns): 1747072634543260031
+ACK Received: ACK:client-77                           
+Received Timestamp (ns): 4680585943526
+RTT (ns): 1325114
+---
+Message ID: client-78
+Sent Timestamp (ns): 1747072634544529856
+ACK Received: ACK:client-78                           
+Received Timestamp (ns): 4680586437213
+RTT (ns): 549051
+---
+Message ID: client-83
+Sent Timestamp (ns): 1747072634545536491
+ACK Received: ACK:client-83                           
+Received Timestamp (ns): 4680587439121
+RTT (ns): 544315
+---
+Message ID: client-84
+Sent Timestamp (ns): 1747072634545476387
+ACK Received: ACK:client-84                           
+Received Timestamp (ns): 4680587513781
+RTT (ns): 679044
+---
+Message ID: client-80
+Sent Timestamp (ns): 1747072634545887444
+ACK Received: ACK:client-80                           
+Received Timestamp (ns): 4680587534825
+RTT (ns): 289021
+---
+Message ID: client-85
+Sent Timestamp (ns): 1747072634545705735
+ACK Received: ACK:client-85                           
+Received Timestamp (ns): 4680587806685
+RTT (ns): 742625
+---
+Message ID: client-82
+Sent Timestamp (ns): 1747072634546474244
+ACK Received: ACK:client-82                           
+Received Timestamp (ns): 4680588018901
+RTT (ns): 186455
+---
+Message ID: client-81
+Sent Timestamp (ns): 1747072634546607863
+ACK Received: ACK:client-81                           
+Received Timestamp (ns): 4680588133804
+RTT (ns): 167544
+---
+Message ID: client-56
+Sent Timestamp (ns): 1747072634534791550
+ACK Received: ACK:client-56                           
+Received Timestamp (ns): 4680588161108
+RTT (ns): 12011227
+---
+Message ID: client-86
+Sent Timestamp (ns): 1747072634547906686
+ACK Received: ACK:client-86                           
+Received Timestamp (ns): 4680589486850
+RTT (ns): 221916
+---
+Message ID: client-90
+Sent Timestamp (ns): 1747072634548052397
+ACK Received: ACK:client-90                           
+Received Timestamp (ns): 4680589659241
+RTT (ns): 248499
+---
+Message ID: client-88
+Sent Timestamp (ns): 1747072634547963106
+ACK Received: ACK:client-88                           
+Received Timestamp (ns): 4680589695416
+RTT (ns): 373961
+---
+Message ID: client-70
+Sent Timestamp (ns): 1747072634548086916
+ACK Received: ACK:client-70                           
+Received Timestamp (ns): 4680589683461
+RTT (ns): 238313
+---
+Message ID: client-67
+Sent Timestamp (ns): 1747072634543769744
+ACK Received: ACK:client-67                           
+Received Timestamp (ns): 4680589816611
+RTT (ns): 4688581
+---
+Message ID: client-89
+Sent Timestamp (ns): 1747072634548872240
+ACK Received: ACK:client-89                           
+Received Timestamp (ns): 4680590751803
+RTT (ns): 521222
+---
+Message ID: client-51
+Sent Timestamp (ns): 1747072634546581884
+ACK Received: ACK:client-51                           
+Received Timestamp (ns): 4680590879634
+RTT (ns): 2939414
+---
+Message ID: client-48
+Sent Timestamp (ns): 1747072634545314985
+ACK Received: ACK:client-48                           
+Received Timestamp (ns): 4680590917493
+RTT (ns): 4244190
+---
+Message ID: client-74
+Sent Timestamp (ns): 1747072634550100617
+ACK Received: ACK:client-74                           
+Received Timestamp (ns): 4680591875851
+RTT (ns): 416899
+---
+Message ID: client-87
+Sent Timestamp (ns): 1747072634548543147
+ACK Received: ACK:client-87                           
+Received Timestamp (ns): 4680591893137
+RTT (ns): 1991804
+---
+Message ID: client-92
+Sent Timestamp (ns): 1747072634550246176
+ACK Received: ACK:client-92                           
+Received Timestamp (ns): 4680591962660
+RTT (ns): 358055
+---
+Message ID: client-93
+Sent Timestamp (ns): 1747072634550334488
+ACK Received: ACK:client-93                           
+Received Timestamp (ns): 4680592254391
+RTT (ns): 561584
+---
+Message ID: client-95
+Sent Timestamp (ns): 1747072634551006304
+ACK Received: ACK:client-95                           
+Received Timestamp (ns): 4680593124635
+RTT (ns): 760021
+---
+Message ID: client-75
+Sent Timestamp (ns): 1747072634548805082
+ACK Received: ACK:client-75                           
+Received Timestamp (ns): 4680593385724
+RTT (ns): 3222356
+---
+Message ID: client-91
+Sent Timestamp (ns): 1747072634550373640
+ACK Received: ACK:client-91                           
+Received Timestamp (ns): 4680593430081
+RTT (ns): 1698251
+---
+Message ID: client-94
+Sent Timestamp (ns): 1747072634552134021
+ACK Received: ACK:client-94                           
+Received Timestamp (ns): 4680593983769
+RTT (ns): 491376
+---
+Message ID: client-98
+Sent Timestamp (ns): 1747072634552586049
+ACK Received: ACK:client-98                           
+Received Timestamp (ns): 4680594094005
+RTT (ns): 149603
+---
+Message ID: client-96
+Sent Timestamp (ns): 1747072634552603787
+ACK Received: ACK:client-96                           
+Received Timestamp (ns): 4680594315660
+RTT (ns): 353552
+---
+Message ID: client-100
+Sent Timestamp (ns): 1747072634554070035
+ACK Received: ACK:client-100                          
+Received Timestamp (ns): 4680595729011
+RTT (ns): 300576
+---
+Message ID: client-99
+Sent Timestamp (ns): 1747072634553861498
+ACK Received: ACK:client-99                           
+Received Timestamp (ns): 4680595285773
+RTT (ns): 65929
+---
+Message ID: client-97
+Sent Timestamp (ns): 1747072634553649909
+ACK Received: ACK:client-97                           
+Received Timestamp (ns): 4680595253740
+RTT (ns): 245589
+---

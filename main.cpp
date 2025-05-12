@@ -17,7 +17,15 @@ int main(int argc, char* argv[])
     TcpServer server(ioContext, port);
     server.Start();
 
-    ioContext.run();
+    std::vector<std::thread> threads;
+    unsigned int threadCount = std::thread::hardware_concurrency();
+    for (unsigned int i = 0; i < threadCount; ++i) {
+        threads.emplace_back([&ioContext]() { ioContext.run(); });
+    }
+    for (auto& t : threads) {
+        t.join();
+    }
+
 
     return 0;
 }

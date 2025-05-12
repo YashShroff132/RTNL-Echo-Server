@@ -1,0 +1,400 @@
+Client ID: client-1 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-1       4680557273749       4680557474375              200626
+------------------------------------------
+Client ID: client-2 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-2       4680557327364       4680557506311              178947
+------------------------------------------
+Client ID: client-3 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-3       4680557809720       4680557869364               59644
+------------------------------------------
+Client ID: client-4 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-4       4680557931208       4680558053241              122033
+------------------------------------------
+Client ID: client-5 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-5       4680558213180       4680558278769               65589
+------------------------------------------
+Client ID: client-6 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-6       4680558461319       4680558515380               54061
+------------------------------------------
+Client ID: client-7 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-7       4680558853870       4680558963070              109200
+------------------------------------------
+Client ID: client-11 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-11       4680560121843       4680560210672               88829
+------------------------------------------
+Client ID: client-8 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-8       4680559486171       4680559665719              179548
+------------------------------------------
+Client ID: client-10 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-10       4680559802247       4680559861323               59076
+------------------------------------------
+Client ID: client-12 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-12       4680560371249       4680560790743              419494
+------------------------------------------
+Client ID: client-13 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-13       4680560745607       4680560829450               83843
+------------------------------------------
+Client ID: client-14 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-14       4680561143847       4680561218045               74198
+------------------------------------------
+Client ID: client-9 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                            client-9       4680559638726       4680559764812              126086
+------------------------------------------
+Client ID: client-16 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-16       4680562207771       4680562260106               52335
+------------------------------------------
+Client ID: client-15 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-15       4680562043923       4680562217036              173113
+------------------------------------------
+Client ID: client-17 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-17       4680562470091       4680563320186              850095
+------------------------------------------
+Client ID: client-18 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-18       4680563459950       4680563753344              293394
+------------------------------------------
+Client ID: client-19 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-19       4680564134465       4680564380598              246133
+------------------------------------------
+Client ID: client-21 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-21       4680564134448       4680564606062              471614
+------------------------------------------
+Client ID: client-20 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-20       4680564134478       4680564611452              476974
+------------------------------------------
+Client ID: client-22 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-22       4680564786578       4680564965297              178719
+------------------------------------------
+Client ID: client-23 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-23       4680566179221       4680566325475              146254
+------------------------------------------
+Client ID: client-24 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-24       4680566263891       4680566467951              204060
+------------------------------------------
+Client ID: client-26 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-26       4680567013398       4680567295795              282397
+------------------------------------------
+Client ID: client-25 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-25       4680567013397       4680567291666              278269
+------------------------------------------
+Client ID: client-32 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-32       4680568503337       4680569441858              938521
+------------------------------------------
+Client ID: client-34 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-34       4680568801385       4680569629328              827943
+------------------------------------------
+Client ID: client-29 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-29       4680568503310       4680569604251             1100941
+------------------------------------------
+Client ID: client-27 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-27       4680568503305       4680569130498              627193
+------------------------------------------
+Client ID: client-35 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-35       4680569406460       4680569643289              236829
+------------------------------------------
+Client ID: client-28 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-28       4680568661008       4680571240852             2579844
+------------------------------------------
+Client ID: client-37 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-37       4680571279286       4680572389991             1110705
+------------------------------------------
+Client ID: client-42 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-42       4680571466094       4680572433625              967531
+------------------------------------------
+Client ID: client-38 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-38       4680570925692       4680572961986             2036294
+------------------------------------------
+Client ID: client-33 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-33       4680572499673       4680572925873              426200
+------------------------------------------
+Client ID: client-45 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-45       4680572560063       4680573076056              515993
+------------------------------------------
+Client ID: client-41 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-41       4680571267453       4680573032399             1764946
+------------------------------------------
+Client ID: client-43 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-43       4680572782155       4680573102163              320008
+------------------------------------------
+Client ID: client-44 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-44       4680573592567       4680573852210              259643
+------------------------------------------
+Client ID: client-52 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-52       4680574917516       4680575020730              103214
+------------------------------------------
+Client ID: client-40 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-40       4680574484547       4680575526028             1041481
+------------------------------------------
+Client ID: client-50 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-50       4680575042969       4680575664397              621428
+------------------------------------------
+Client ID: client-54 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-54       4680575474444       4680575629627              155183
+------------------------------------------
+Client ID: client-47 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-47       4680574484560       4680576194986             1710426
+------------------------------------------
+Client ID: client-30 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-30       4680568521412       4680577309483             8788071
+------------------------------------------
+Client ID: client-36 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-36       4680570925737       4680577650863             6725126
+------------------------------------------
+Client ID: client-39 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-39       4680572499770       4680578014235             5514465
+------------------------------------------
+Client ID: client-58 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-58       4680577141625       4680578600736             1459111
+------------------------------------------
+Client ID: client-61 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-61       4680578238372       4680578637796              399424
+------------------------------------------
+Client ID: client-57 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-57       4680577271296       4680578691021             1419725
+------------------------------------------
+Client ID: client-62 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-62       4680578164350       4680579067590              903240
+------------------------------------------
+Client ID: client-31 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-31       4680577271327       4680579290785             2019458
+------------------------------------------
+Client ID: client-46 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-46       4680575882583       4680579246226             3363643
+------------------------------------------
+Client ID: client-55 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-55       4680579623810       4680579801204              177394
+------------------------------------------
+Client ID: client-53 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-53       4680578173620       4680578665451              491831
+------------------------------------------
+Client ID: client-65 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-65       4680579623797       4680580454393              830596
+------------------------------------------
+Client ID: client-72 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-72       4680581093513       4680581247508              153995
+------------------------------------------
+Client ID: client-59 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-59       4680579989372       4680581303861             1314489
+------------------------------------------
+Client ID: client-68 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-68       4680580474058       4680581826306             1352248
+------------------------------------------
+Client ID: client-63 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-63       4680580474087       4680581786404             1312317
+------------------------------------------
+Client ID: client-73 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-73       4680581864410       4680582071128              206718
+------------------------------------------
+Client ID: client-49 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-49       4680582201375       4680582559682              358307
+------------------------------------------
+Client ID: client-60 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-60       4680582033036       4680582263185              230149
+------------------------------------------
+Client ID: client-64 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-64       4680582725784       4680582882846              157062
+------------------------------------------
+Client ID: client-71 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-71       4680582162395       4680582419475              257080
+------------------------------------------
+Client ID: client-69 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-69       4680583218880       4680584370975             1152095
+------------------------------------------
+Client ID: client-76 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-76       4680584426261       4680584658649              232388
+------------------------------------------
+Client ID: client-66 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-66       4680585128028       4680585465831              337803
+------------------------------------------
+Client ID: client-79 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-79       4680585297311       4680585694671              397360
+------------------------------------------
+Client ID: client-77 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-77       4680584618412       4680585943526             1325114
+------------------------------------------
+Client ID: client-78 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-78       4680585888162       4680586437213              549051
+------------------------------------------
+Client ID: client-83 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-83       4680586894806       4680587439121              544315
+------------------------------------------
+Client ID: client-84 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-84       4680586834737       4680587513781              679044
+------------------------------------------
+Client ID: client-80 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-80       4680587245804       4680587534825              289021
+------------------------------------------
+Client ID: client-85 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-85       4680587064060       4680587806685              742625
+------------------------------------------
+Client ID: client-82 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-82       4680587832446       4680588018901              186455
+------------------------------------------
+Client ID: client-81 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-81       4680587966260       4680588133804              167544
+------------------------------------------
+Client ID: client-56 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-56       4680576149881       4680588161108            12011227
+------------------------------------------
+Client ID: client-86 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-86       4680589264934       4680589486850              221916
+------------------------------------------
+Client ID: client-90 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-90       4680589410742       4680589659241              248499
+------------------------------------------
+Client ID: client-88 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-88       4680589321455       4680589695416              373961
+------------------------------------------
+Client ID: client-70 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-70       4680589445148       4680589683461              238313
+------------------------------------------
+Client ID: client-67 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-67       4680585128030       4680589816611             4688581
+------------------------------------------
+Client ID: client-89 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-89       4680590230581       4680590751803              521222
+------------------------------------------
+Client ID: client-48 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-48       4680586673303       4680590917493             4244190
+------------------------------------------
+Client ID: client-51 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-51       4680587940220       4680590879634             2939414
+------------------------------------------
+Client ID: client-74 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-74       4680591458952       4680591875851              416899
+------------------------------------------
+Client ID: client-87 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-87       4680589901333       4680591893137             1991804
+------------------------------------------
+Client ID: client-92 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-92       4680591604605       4680591962660              358055
+------------------------------------------
+Client ID: client-93 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-93       4680591692807       4680592254391              561584
+------------------------------------------
+Client ID: client-95 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-95       4680592364614       4680593124635              760021
+------------------------------------------
+Client ID: client-75 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-75       4680590163368       4680593385724             3222356
+------------------------------------------
+Client ID: client-91 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-91       4680591731830       4680593430081             1698251
+------------------------------------------
+Client ID: client-94 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-94       4680593492393       4680593983769              491376
+------------------------------------------
+Client ID: client-98 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-98       4680593944402       4680594094005              149603
+------------------------------------------
+Client ID: client-96 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-96       4680593962108       4680594315660              353552
+------------------------------------------
+Client ID: client-100 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                          client-100       4680595428435       4680595729011              300576
+------------------------------------------
+Client ID: client-99 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-99       4680595219844       4680595285773               65929
+------------------------------------------
+Client ID: client-97 - Log Session
+                          Message ID            Sent(ns)        Received(ns)             RTT(ns)
+                           client-97       4680595008151       4680595253740              245589
+------------------------------------------
