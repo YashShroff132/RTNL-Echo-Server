@@ -42,6 +42,8 @@ You can now run the client like:
 ./client client-123
 Or simulate 1000 clients:
 for i in {1..1000}; do ./client client-$i & done; wait
+for i in {1..100}; do ./client client-$i & done; wait
+
 
 
 Convert `client.log` to CSV

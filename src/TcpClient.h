@@ -36,4 +36,7 @@ private:
     std::chrono::steady_clock::time_point sendTime;
     std::array<char, 128> messageBuffer;
     std::array<char, 64> ackBuffer;
+    // Message buffer holds the 128-byte payload.
+    // A 4-byte length header is prepended dynamically in SendMessage().
+
 };

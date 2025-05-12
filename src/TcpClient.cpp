@@ -5,7 +5,8 @@
 #include <ctime>
 #include <fstream>
 #include <filesystem>
-#include <bits/this_thread_sleep.h>
+#include <arpa/inet.h>
+#include <thread>
 
 namespace fs = std::filesystem;
 static std::ofstream client_log("../logs/client.log", std::ios::app);
@@ -41,10 +42,16 @@ void TcpClient::SendMessage()
     std::string payload = "Payload from client " + clientId;
     std::memcpy(messageBuffer.data() + 44, payload.c_str(), std::min(payload.size(), size_t(84)));
 
-    boost::asio::write(socket, boost::asio::buffer(messageBuffer));
+    // Add 4-byte header
+    uint32_t len = htonl(128);
+    std::vector<char> fullMessage;
+    fullMessage.insert(fullMessage.end(), reinterpret_cast<char*>(&len), reinterpret_cast<char*>(&len) + sizeof(len));
+    fullMessage.insert(fullMessage.end(), messageBuffer.begin(), messageBuffer.end());
 
-    // client_log << "Message ID: " << clientId << "\n";
-    // client_log << "Sent Timestamp (ns): " << nowNs << "\n";
+    boost::asio::write(socket, boost::asio::buffer(fullMessage));
+
+    client_log << "Message ID: " << clientId << "\n";
+    client_log << "Sent Timestamp (ns): " << nowNs << "\n";
 }
 
 void TcpClient::ReadAck()
@@ -64,12 +71,12 @@ void TcpClient::ReadAck()
 
     logs.push_back(log);
 
-    // client_log << "ACK Received: " << std::string(ackBuffer.data(), len) << "\n";
-    // client_log << "Received Timestamp (ns): " << recvNs << "\n";
-    // client_log << "RTT (ns): " << log.roundTripLatency << "\n---\n";
+    client_log << "ACK Received: " << std::string(ackBuffer.data(), len) << "\n";
+    client_log << "Received Timestamp (ns): " << recvNs << "\n";
+    client_log << "RTT (ns): " << log.roundTripLatency << "\n---\n";
 
-    // std::cout << "Received ACK: " << std::string(ackBuffer.data(), len)
-    //           << ", RTT(ns): " << log.roundTripLatency << std::endl;
+    std::cout << "Received ACK: " << std::string(ackBuffer.data(), len)
+              << ", RTT(ns): " << log.roundTripLatency << std::endl;
 }
 
 const std::vector<ClientMessageLog>& TcpClient::GetLogs() const
