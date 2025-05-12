@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB
 
-CXX_INCLUDES = -I/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src
+CXX_INCLUDES = -I/home/yash-shroff/RTNL-Echo-Server/src
 
 CXX_FLAGS = -std=gnu++17
 

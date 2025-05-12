@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/main.cpp" "CMakeFiles/server.dir/main.cpp.o" "gcc" "CMakeFiles/server.dir/main.cpp.o.d"
-  "/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/ClientSession.cpp" "CMakeFiles/server.dir/src/ClientSession.cpp.o" "gcc" "CMakeFiles/server.dir/src/ClientSession.cpp.o.d"
-  "/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/TcpServer.cpp" "CMakeFiles/server.dir/src/TcpServer.cpp.o" "gcc" "CMakeFiles/server.dir/src/TcpServer.cpp.o.d"
+  "/home/yash-shroff/RTNL-Echo-Server/main.cpp" "CMakeFiles/server.dir/main.cpp.o" "gcc" "CMakeFiles/server.dir/main.cpp.o.d"
+  "/home/yash-shroff/RTNL-Echo-Server/src/ClientSession.cpp" "CMakeFiles/server.dir/src/ClientSession.cpp.o" "gcc" "CMakeFiles/server.dir/src/ClientSession.cpp.o.d"
+  "/home/yash-shroff/RTNL-Echo-Server/src/TcpServer.cpp" "CMakeFiles/server.dir/src/TcpServer.cpp.o" "gcc" "CMakeFiles/server.dir/src/TcpServer.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -43,8 +43,8 @@ void TcpClient::SendMessage()
 
     boost::asio::write(socket, boost::asio::buffer(messageBuffer));
 
-    client_log << "Message ID: " << clientId << "\n";
-    client_log << "Sent Timestamp (ns): " << nowNs << "\n";
+    // client_log << "Message ID: " << clientId << "\n";
+    // client_log << "Sent Timestamp (ns): " << nowNs << "\n";
 }
 
 void TcpClient::ReadAck()
@@ -64,15 +64,41 @@ void TcpClient::ReadAck()
 
     logs.push_back(log);
 
-    client_log << "ACK Received: " << std::string(ackBuffer.data(), len) << "\n";
-    client_log << "Received Timestamp (ns): " << recvNs << "\n";
-    client_log << "RTT (ns): " << log.roundTripLatency << "\n---\n";
+    // client_log << "ACK Received: " << std::string(ackBuffer.data(), len) << "\n";
+    // client_log << "Received Timestamp (ns): " << recvNs << "\n";
+    // client_log << "RTT (ns): " << log.roundTripLatency << "\n---\n";
 
-    std::cout << "Received ACK: " << std::string(ackBuffer.data(), len)
-              << ", RTT(ns): " << log.roundTripLatency << std::endl;
+    // std::cout << "Received ACK: " << std::string(ackBuffer.data(), len)
+    //           << ", RTT(ns): " << log.roundTripLatency << std::endl;
 }
 
 const std::vector<ClientMessageLog>& TcpClient::GetLogs() const
 {
     return logs;
+}
+
+void TcpClient::WriteLogsToFile(const std::string& filename) const
+{
+    std::ofstream logFile(filename, std::ios::app);
+    if (!logFile.is_open()) {
+        std::cerr << "Failed to open log file: " << filename << std::endl;
+        return;
+    }
+
+    logFile << "Client ID: " << clientId << " - Log Session\n";
+    logFile << std::setw(36) << "Message ID" 
+            << std::setw(20) << "Sent(ns)" 
+            << std::setw(20) << "Received(ns)" 
+            << std::setw(20) << "RTT(ns)" << "\n";
+
+    for (const auto& log : logs) {
+        logFile << std::setw(36) << log.messageId
+                << std::setw(20) << log.sentTimestamp
+                << std::setw(20) << log.receivedTimestamp
+                << std::setw(20) << log.roundTripLatency
+                << "\n";
+    }
+    logFile << "------------------------------------------\n";
+
+    logFile.close();
 }

@@ -1,4 +1,4 @@
-# Install script for directory: /home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED
+# Install script for directory: /home/yash-shroff/RTNL-Echo-Server
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/yash-shroff/RTNL-Echo-Server/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

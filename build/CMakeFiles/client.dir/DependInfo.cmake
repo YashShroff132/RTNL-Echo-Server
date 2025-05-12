@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/main_client.cpp" "CMakeFiles/client.dir/main_client.cpp.o" "gcc" "CMakeFiles/client.dir/main_client.cpp.o.d"
-  "/home/yash-shroff/Downloads/HighConcurrencyTcpServer_FINAL_ALL_INCLUDED_FIXED/src/TcpClient.cpp" "CMakeFiles/client.dir/src/TcpClient.cpp.o" "gcc" "CMakeFiles/client.dir/src/TcpClient.cpp.o.d"
+  "/home/yash-shroff/RTNL-Echo-Server/main_client.cpp" "CMakeFiles/client.dir/main_client.cpp.o" "gcc" "CMakeFiles/client.dir/main_client.cpp.o.d"
+  "/home/yash-shroff/RTNL-Echo-Server/src/TcpClient.cpp" "CMakeFiles/client.dir/src/TcpClient.cpp.o" "gcc" "CMakeFiles/client.dir/src/TcpClient.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

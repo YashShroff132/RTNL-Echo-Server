@@ -19,6 +19,8 @@ public:
     TcpClient(boost::asio::io_context& ioContext, const std::string& host, unsigned short port, const std::string& clientId);
     void Start();
     const std::vector<ClientMessageLog>& GetLogs() const;
+    void WriteLogsToFile(const std::string& filename) const;
+
 
 private:
     void Connect();

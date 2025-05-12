@@ -15,6 +15,8 @@ int main(int argc, char* argv[])
     boost::asio::io_context ioContext;
     TcpClient client(ioContext, "127.0.0.1", 8080, clientId);
     client.Start();
+    client.WriteLogsToFile("../logs/client_message_logs.txt");
+
 
     return 0;
 }
